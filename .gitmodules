@@ -1,0 +1,3 @@
+[submodule "bapl-web"]
+	path = bapl-web
+	url = https://github.com/risonakamo/bapl-web.git
